@@ -35,6 +35,8 @@ const Weather = () => {
     "10n": rain_icon,
     "13d": snow_icon,
     "13n": snow_icon,
+    "50d": cloud_icon,  // mist/haze
+  "50n": cloud_icon   // mist/haze
   }
 
   // Function to fetch weather data from API
